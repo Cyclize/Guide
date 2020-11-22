@@ -1,17 +1,15 @@
 # Java Edition
 
- **1\)** Download version you want your server to be: 
+**1\)** Download version you want your server to be:
 
 **Paper \(AKA. PaperSpigot or PaperClip\) \(Optimized Spigot\)** \(Vanilla with Bukkit and Spigot plugin support\)
 
-
-
 \*\*\*\*[**1.14**](https://papermc.io/api/v1/paper/1.14.1/26/download) - Unstable
 
- [**1.13.2**](https://dl.stormrealms.net/paper/1.13.2/) ****- ****Not Recommended! Read WARNING below!!
+[**1.13.2**](https://dl.stormrealms.net/paper/1.13.2/) **-** Not Recommended! Read WARNING below!!
 
 {% hint style="warning" %}
- Minecraft server 1.13.x and 1.14 use much more CPU and RAM resources compared to 1.12.x due to new Aquatic World Generation and new introduced collision system. If you don't care about 1.13.x and 1.14's new World Generation, Items, Blocks, New Mechanics, Downgrade to 1.12.2 below and install [ViaVersion](https://www.spigotmc.org/resources/viaversion.19254/) plugin to allow players to join with 1.13.x and 1.14 on your 1.12.2 server.
+Minecraft server 1.13.x and 1.14 use much more CPU and RAM resources compared to 1.12.x due to new Aquatic World Generation and new introduced collision system. If you don't care about 1.13.x and 1.14's new World Generation, Items, Blocks, New Mechanics, Downgrade to 1.12.2 below and install [ViaVersion](https://www.spigotmc.org/resources/viaversion.19254/) plugin to allow players to join with 1.13.x and 1.14 on your 1.12.2 server.
 {% endhint %}
 
 [**1.12.2**](https://dl.stormrealms.net/paper/1.12.2/)
@@ -24,9 +22,9 @@
 
 [**1.8.x**](https://dl.stormrealms.net/paper/1.8.8/)
 
-\*\*\*\*[**1.7.10**](https://dl.stormrealms.net/paper/1.7.10/) ****- ****_supports 1.7.10 and 1.8.x clients_
+\*\*\*\*[**1.7.10**](https://dl.stormrealms.net/paper/1.7.10/) **-** _supports 1.7.10 and 1.8.x clients_
 
- **Vanilla** - For Vanilla server, download Paper from above and as long as you don't add any Game changing plugins it is still going to be Pure Vanilla. Paper is recommended over Vanilla server as it's more optimized.
+**Vanilla** - For Vanilla server, download Paper from above and as long as you don't add any Game changing plugins it is still going to be Pure Vanilla. Paper is recommended over Vanilla server as it's more optimized.
 
 Hey...! Where are other Minecraft versions like 1.12.1, 1.12, 1.11.1, 1.11, ...?? We **DON'T Recommend** using older versions of releases as they could have undiscovered exploits and bugs. They are usually also not as optimized as final versions! If you play on older versions of releases like 1.12.1, 1.12, 1.11.1, 1.11, etc., Please upgrade.
 
@@ -46,7 +44,7 @@ Hey...! Where are other Minecraft versions like 1.12.1, 1.12, 1.11.1, 1.11, ...?
 
 [![](https://media.discordapp.net/attachments/471062252699516938/471227630365048832/firefox_2018-07-24_10-07-25.png?width=400&height=57)](https://cdn.discordapp.com/attachments/471062252699516938/471227630365048832/firefox_2018-07-24_10-07-25.png)
 
-**6\)** Select downloaded `server.jar` and click `Open` _If there are multiple `server.jar` files \(server.jar, server\(\#\).jar, server\_\#.jar\), make sure to select latest one and when uploaded rename it to the `server.jar`_
+**6\)** Select downloaded `server.jar` and click `Open` _If there are multiple `server.jar` files \(server.jar, server\(\#\).jar, server\_\#.jar\), make sure to select latest one and when uploaded rename it to the `server.jar`\_
 
 _\`\`_[![](https://media.discordapp.net/attachments/471062252699516938/471229614610579456/firefox_2018-07-24_10-12-19.png?width=388&height=300)](https://cdn.discordapp.com/attachments/471062252699516938/471229614610579456/firefox_2018-07-24_10-12-19.png)\*\*\*\*
 
