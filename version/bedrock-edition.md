@@ -18,7 +18,7 @@
 
 [![](https://media.discordapp.net/attachments/471299720925413386/471314749972545538/firefox_2018-07-24_10-07-25.png?width=400&height=57)](https://cdn.discordapp.com/attachments/471299720925413386/471314749972545538/firefox_2018-07-24_10-07-25.png)\*\*\*\*
 
-**6\)** Select downloaded `server.jar` and click `Open` _If there are multiple `server.jar` files \(server.jar, server\(\#\).jar, server\_\#.jar\), make sure to select latest one and when uploaded rename it to the `server.jar`_
+**6\)** Select downloaded `server.jar` and click `Open` _If there are multiple `server.jar` files \(server.jar, server\(\#\).jar, server\_\#.jar\), make sure to select latest one and when uploaded rename it to the `server.jar`\_
 
 _\`\`_[![](https://media.discordapp.net/attachments/471299720925413386/471315151740469258/firefox_2018-07-24_10-12-19.png?width=388&height=300)](https://cdn.discordapp.com/attachments/471299720925413386/471315151740469258/firefox_2018-07-24_10-12-19.png)\*\*\*\*
 
@@ -40,6 +40,5 @@ _\`\`_[![](https://media.discordapp.net/attachments/471299720925413386/471315151
 
 ... Restart the server
 
-[![](https://media.discordapp.net/attachments/471299720925413386/471320849774018560/firefox_2018-07-24_16-18-23.png?width=400&height=163)](https://cdn.discordapp.com/attachments/471299720925413386/471320849774018560/firefox_2018-07-24_16-18-23.png)  
-
+[![](https://media.discordapp.net/attachments/471299720925413386/471320849774018560/firefox_2018-07-24_16-18-23.png?width=400&height=163)](https://cdn.discordapp.com/attachments/471299720925413386/471320849774018560/firefox_2018-07-24_16-18-23.png)
 

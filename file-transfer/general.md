@@ -1,10 +1,10 @@
 # General
 
-For WinSCP users please navigate to winscp. 
+For WinSCP users please navigate to winscp.
 
-For FileZilla users please navigate to filezilla. 
+For FileZilla users please navigate to filezilla.
 
-We recommend using WinSCP if you are running Windows on your Computer. For all other Operating systems we recommend using FileZilla. If FileZilla is not supported on your OS or Device or you use Different FTP/SFTP Client, here is what you need to do to get FTP/SFTP connection details: 
+We recommend using WinSCP if you are running Windows on your Computer. For all other Operating systems we recommend using FileZilla. If FileZilla is not supported on your OS or Device or you use Different FTP/SFTP Client, here is what you need to do to get FTP/SFTP connection details:
 
 **1\)** Go to the your host's panel and click on your server's name
 

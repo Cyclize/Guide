@@ -1,6 +1,6 @@
 # WinSCP
 
-**Using WinSCP FTP/SFTP Client to upload/download files from your Minecraft server** 
+**Using WinSCP FTP/SFTP Client to upload/download files from your Minecraft server**
 
 **1\)** Download [WinSCP](https://winscp.net/eng/download.php)
 
